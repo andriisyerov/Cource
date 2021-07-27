@@ -1,0 +1,93 @@
+
+PS C:\Users\Andrii.Sierov> Get-DistributionGroup -Identity "svemin room" |fl
+
+
+RunspaceId                             : 4d96cc41-f3d5-4034-aea4-ebd9526a906c
+GroupType                              : Universal
+SamAccountName                         : #Svemin Room58755-652154346
+BypassNestedModerationEnabled          : False
+IsDirSynced                            : False
+ManagedBy                              : {jonas}
+MemberJoinRestriction                  : Closed
+MemberDepartRestriction                : Open
+MigrationToUnifiedGroupInProgress      : False
+ExpansionServer                        :
+ReportToManagerEnabled                 : False
+ReportToOriginatorEnabled              : True
+SendOofMessageToOriginatorEnabled      : False
+Description                            : {}
+AcceptMessagesOnlyFrom                 : {}
+AcceptMessagesOnlyFromDLMembers        : {}
+AcceptMessagesOnlyFromSendersOrMembers : {}
+AddressListMembership                  : {\Default Global Address List, \Offline Global Address List, \All Distribution Lists, \All Recipients(VLV)...}
+AdministrativeUnits                    : {}
+Alias                                  : #SveminRoom
+ArbitrationMailbox                     : SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c}
+BypassModerationFromSendersOrMembers   : {}
+OrganizationalUnit                     : eurpr08a007.prod.outlook.com/Microsoft Exchange Hosted Organizations/snmo.onmicrosoft.com
+CustomAttribute1                       :
+CustomAttribute10                      :
+CustomAttribute11                      :
+CustomAttribute12                      :
+CustomAttribute13                      :
+CustomAttribute14                      :
+CustomAttribute15                      :
+CustomAttribute2                       :
+CustomAttribute3                       :
+CustomAttribute4                       :
+CustomAttribute5                       :
+CustomAttribute6                       :
+CustomAttribute7                       :
+CustomAttribute8                       :
+CustomAttribute9                       :
+ExtensionCustomAttribute1              : {}
+ExtensionCustomAttribute2              : {}
+ExtensionCustomAttribute3              : {}
+ExtensionCustomAttribute4              : {}
+ExtensionCustomAttribute5              : {}
+DisplayName                            : Svemin Room
+EmailAddresses                         : {SMTP:#SveminRoom@snmo.onmicrosoft.com}
+GrantSendOnBehalfTo                    : {}
+ExternalDirectoryObjectId              :
+HiddenFromAddressListsEnabled          : False
+LastExchangeChangedTime                :
+LegacyExchangeDN                       : /o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=group3a1b6b81
+MaxSendSize                            : Unlimited
+MaxReceiveSize                         : Unlimited
+ModeratedBy                            : {}
+ModerationEnabled                      : False
+PoliciesIncluded                       : {}
+PoliciesExcluded                       : {{26491cfc-9e50-4857-861b-0cb8df22b5d7}}
+EmailAddressPolicyEnabled              : False
+PrimarySmtpAddress                     : #SveminRoom@snmo.onmicrosoft.com
+RecipientType                          : MailUniversalDistributionGroup
+RecipientTypeDetails                   : RoomList
+RejectMessagesFrom                     : {}
+RejectMessagesFromDLMembers            : {}
+RejectMessagesFromSendersOrMembers     : {}
+RequireSenderAuthenticationEnabled     : True
+SimpleDisplayName                      :
+SendModerationNotifications            : Always
+UMDtmfMap                              : {emailAddress:7836467666, lastNameFirstName:7836467666, firstNameLastName:7836467666}
+WindowsEmailAddress                    : #SveminRoom@snmo.onmicrosoft.com
+MailTip                                :
+MailTipTranslations                    : {}
+Identity                               : Svemin Room
+Id                                     : Svemin Room
+IsValid                                : True
+ExchangeVersion                        : 0.10 (14.0.100.0)
+Name                                   : Svemin Room
+DistinguishedName                      : CN=Svemin Room,OU=snmo.onmicrosoft.com,OU=Microsoft Exchange Hosted Organizations,DC=EURPR08A007,DC=PROD,DC=OUTLOOK,
+                                         DC=COM
+ObjectCategory                         : EURPR08A007.PROD.OUTLOOK.COM/Configuration/Schema/Group
+ObjectClass                            : {top, group}
+WhenChanged                            : 01.10.2019 15:45:13
+WhenCreated                            : 26.04.2019 13:31:43
+WhenChangedUTC                         : 01.10.2019 12:45:13
+WhenCreatedUTC                         : 26.04.2019 10:31:43
+ExchangeObjectId                       : d81e3280-35cb-4d35-914b-729431c61fcd
+OrganizationId                         : EURPR08A007.PROD.OUTLOOK.COM/Microsoft Exchange Hosted Organizations/snmo.onmicrosoft.com - EURPR08A007.PROD.OUTLOOK
+                                         .COM/ConfigurationUnits/snmo.onmicrosoft.com/Configuration
+Guid                                   : d81e3280-35cb-4d35-914b-729431c61fcd
+OriginatingServer                      : DB7PR08A07DC004.EURPR08A007.PROD.OUTLOOK.COM
+ObjectState                            : Changed

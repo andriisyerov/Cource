@@ -1,0 +1,3000 @@
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mtAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIraVjrAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIraVjrAAAA
+SourceItemSubjectsList                 : Rapport från finanskrisen
+SourceItemAttachmentsList              : WP_PM_2013_01.pdf (1543021b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <771C6DEB-C510-4170-A65D-4656C5B7A2B7@romonorr.se>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5msAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIraVksAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIraVksAAAA
+SourceItemSubjectsList                 : RE: position paper on digital marketplaces - your graphic profiles
+SourceItemAttachmentsList              : image002.jpg (3569b); image003.png (53362b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <HE1P195MB0298DE14086640F645E11CA4CBFF0@HE1P195MB0298.EURP195.PROD.OUTLOOK.COM
+                                         >
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mrAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIraVkrAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIraVkrAAAA
+SourceItemSubjectsList                 : Sv: Rapport från finanskrisen
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB46099576211ED8D4CDA47B26FBFF0@AM0PR08MB4609.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mqAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIraVkvAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIraVkvAAAA
+SourceItemSubjectsList                 : Agenda HR
+SourceItemAttachmentsList              : image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM6PR08MB3765476F668F2629BA85EC6CF2FF0@AM6PR08MB3765.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mpAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24HFAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24HFAAAA
+SourceItemSubjectsList                 : Slutversion styrelsen
+SourceItemAttachmentsList              : Till Visitas styrelse slut.docx (304585b); image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB46091DDA5BE2D6A79C67A490FBFC0@AM0PR08MB4609.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5moAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIraVlFAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIraVlFAAAA
+SourceItemSubjectsList                 : PM Turistskatt
+SourceItemAttachmentsList              : Turismskatt 20200305.docx (30953b); image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB36528133F876B5FE8DE38A37E9FF0@AM0PR08MB3652.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mnAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIraVkyAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIraVkyAAAA
+SourceItemSubjectsList                 : Svensk Handel besvarar frågor om corona
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <S7Y1.J9ra2Fu8L.I1tjC0szM8H_OrbmRGQAA32@nyhetsbrev.svenskhandel.se>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mmAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24HQAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24HQAAAA
+SourceItemSubjectsList                 : Styrelseärende stadgeändring
+SourceItemAttachmentsList              : xx Proposition rörande stadgeändring.docx (326324b); image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <HE1PR0802MB2412DB81AB462A0AB1B43BF491FC0@HE1PR0802MB2412.eurprd08.prod.outloo
+                                         k.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mlAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24HjAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24HjAAAA
+SourceItemSubjectsList                 : VB: verksamhetsberättelse 2019, utkast
+SourceItemAttachmentsList              : Visita_verksamhetsberättelse_2019_200311.pdf (2501253b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB43233882BFC55BD4E0AEBBE3F6FC0@AM0PR08MB4323.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mkAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24HJAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24HJAAAA
+SourceItemSubjectsList                 : Press Release: Joint HOTREC-EFFAT Press Release on COVID-19 recommendations
+SourceItemAttachmentsList              : image001.png (31385b); image002.jpg (8750b); Joint HOTREC-EFFAT PR - COVID-19
+                                         recommendations.pdf (153052b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR10MB3106E1C7B20D3609231BBE9490FC0@AM0PR10MB3106.EURPRD10.PROD.OUTLOOK.CO
+                                         M>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mjAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24IHAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24IHAAAA
+SourceItemSubjectsList                 : OECD consultation on model rules for collaborative economy taxation
+SourceItemAttachmentsList              : image001.jpg (2131b); image002.jpg (1916b); image003.jpg (1674b); image004.jpg
+                                          (2169b); D-0320-073-OECD consultation on ‘Model Rules for Reporting by Platfo
+                                         rm Operators with respect to Sellers in the Sharing and Gig Economy’.docx (834
+                                         93b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR10MB1875C3A8D7522C92E4BE587E87FD0@AM0PR10MB1875.EURPRD10.PROD.OUTLOOK.CO
+                                         M>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5miAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24ISAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24ISAAAA
+SourceItemSubjectsList                 : Relevant information from HOTREC
+SourceItemAttachmentsList              : image001.jpg (2131b); image002.gif (1565b); image003.gif (1543b); image004.gif
+                                          (1599b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM6PR10MB2053AF76BF43E565BC4CAF68EBFD0@AM6PR10MB2053.EURPRD10.PROD.OUTLOOK.CO
+                                         M>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mhAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24JdAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24JdAAAA
+SourceItemSubjectsList                 : Coronaviruset - samlad information från Livsmedelsföretagen | Aktuellt inom Av
+                                         tal 2020 | Nytt konjunkturbrev | Nationell samling mot matsvinn | Sökes: eldsj
+                                         äl inom arbetsmiljö | Debatt: Sluta skära i FoU-budgetar | Stora exportplaner
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <1AE9F16884F64FDEBDD72B7EF72E6D4A@li.se>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mgAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24J8AAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24J8AAAA
+SourceItemSubjectsList                 : VB: Seneste anbefalinger og ny Corona-hjælpepakke 2
+SourceItemAttachmentsList              : image001.gif (2902b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM7PR08MB5448DD1B661497759833DE56E3FA0@AM7PR08MB5448.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mfAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24JuAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24JuAAAA
+SourceItemSubjectsList                 : Press FK 2020 03 13
+SourceItemAttachmentsList              : image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <VI1PR08MB4544C17FA8E66E012D0FED238BFA0@VI1PR08MB4544.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5meAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24KGAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24KGAAAA
+SourceItemSubjectsList                 : Svenskt Näringslivs principer för kommunikationen under Coronakrisen pua Johan
+                                          Jakobsson
+SourceItemAttachmentsList              : image001.png (7399b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB4017CA8023F386EEF09E0A2193FA0@AM0PR08MB4017.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mdAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24KaAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24KaAAAA
+SourceItemSubjectsList                 : VB: HORESTA has just issued the below press release
+SourceItemAttachmentsList              : image001.jpg (2475b); image002.gif (2902b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM4PR08MB28198C271A68C9AE1CD9CF4D9AFA0@AM4PR08MB2819.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mcAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24KYAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24KYAAAA
+SourceItemSubjectsList                 : HORESTA has just issued the below press release
+SourceItemAttachmentsList              : image001.jpg (2475b); image002.gif (2902b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <8F3FF9E7B9F4664AB1CEA82F560274130102ABCA@EXCH01.horesta.dk>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mbAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24KXAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24KXAAAA
+SourceItemSubjectsList                 : SV: Hjælpepakker - Visita
+SourceItemAttachmentsList              : image002.jpg (81232b); image003.jpg (46368b); image001.gif (2902b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <8F3FF9E7B9F4664AB1CEA82F560274130102ABB7@EXCH01.horesta.dk>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5maAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24KhAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24KhAAAA
+SourceItemSubjectsList                 : Slutversion
+SourceItemAttachmentsList              : Besöknäringens krav på politiska åtgärder.docx (292611b); Besöknäringens krav
+                                         på politiska åtgärder.pdf (85619b); image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB4609B98A03B971374F38CFD6FBFA0@AM0PR08MB4609.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mZAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24K6AAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24K6AAAA
+SourceItemSubjectsList                 : European Commission adopts urgent measures to help counter economic impact of
+                                         Coronavirus
+SourceItemAttachmentsList              : image001.png (6279b); image002.gif (1565b); image003.gif (1543b); image004.gif
+                                          (1599b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM6PR10MB2903660F8799340D0917B05E9EFA0@AM6PR10MB2903.EURPRD10.PROD.OUTLOOK.CO
+                                         M>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mYAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24KmAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24KmAAAA
+SourceItemSubjectsList                 : Aktuell varselstatistik avstämd med HRF
+SourceItemAttachmentsList              : image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB361911A53EA92D54ED1FDBC583FA0@AM0PR08MB3619.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mXAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24KrAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24KrAAAA
+SourceItemSubjectsList                 : European Commission's Emergency Economic Response to Covid-19
+SourceItemAttachmentsList              : image003.jpg (4559b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0P192MB03404765A3B5F154F7EBC9ACABFA0@AM0P192MB0340.EURP192.PROD.OUTLOOK.COM
+                                         >
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mWAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24LiAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24LiAAAA
+SourceItemSubjectsList                 : Hyreskontrakt: 43366083
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <366757503.60649.1584173815122.JavaMail.polestar@z79sas042.z79.se.tconet.net>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mVAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI1jiqjAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI1jiqjAAAA
+SourceItemSubjectsList                 : Sv: Paketreselagen
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <HE1PR0802MB241222D8E0096C93AB87F1EA91F80@HE1PR0802MB2412.eurprd08.prod.outloo
+                                         k.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mUAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAIy24LpAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAIy24LpAAAA
+SourceItemSubjectsList                 : Re: Återkoppling
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <CAD6YVMKiYi=JWN_fF0JwnZ9LagHC5Oon_Zm_WzFubHLzp9=KrA@mail.gmail.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mTAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8NKAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8NKAAAA
+SourceItemSubjectsList                 : Fwd: Din flygning [on 22 apr 2020], Bokning: [T3ZRL7]
+SourceItemAttachmentsList              : Brevbilaga.png (551b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <573F968E-E15C-44CE-B69B-C85822F7A3BD@gmail.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mSAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8NMAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8NMAAAA
+SourceItemSubjectsList                 : SV: General Assembly Nordisk Besøksnæring june 2020
+SourceItemAttachmentsList              : image001.png (5296b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM6PR09MB30280DC325488D3448196BD096F90@AM6PR09MB3028.eurprd09.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mRAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8NSAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8NSAAAA
+SourceItemSubjectsList                 : Förslag till hjälpåtgärder från och till besöksnäringen.docx
+SourceItemAttachmentsList              : Förslag till hjälpåtgärder från och till besöksnäringen.docx (19265b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB4947A1F7F1841F3A0451B32A9CF90@AM0PR08MB4947.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mQAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8NZAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8NZAAAA
+SourceItemSubjectsList                 : Fwd: Möte Visita och Örebro universitet
+SourceItemAttachmentsList              : PastedGraphic-10.tiff (17552b); Brevbilaga.ics (3145b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <2E86529D-A569-470F-8608-37D1C7BB5074@bfuf.se>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mPAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8NkAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8NkAAAA
+SourceItemSubjectsList                 : It-samverkan - förändringar fr o m 1juni
+SourceItemAttachmentsList              : image001.jpg (2168b); image002.png (29089b); Ny IT-samverkan 2020 - Huvudbudsk
+                                         ap 1.0.pdf (154338b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <HE1PR0801MB1868312A9F299F189D45E0C490F90@HE1PR0801MB1868.eurprd08.prod.outloo
+                                         k.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:41
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mOAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8OtAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8OtAAAA
+SourceItemSubjectsList                 : Fwd: Frågor till vårt möte imorgon - Visita/Örebro universitet
+SourceItemAttachmentsList              : PastedGraphic-10.tiff (17500b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <A022555E-E187-491E-8988-203833FB55D2@bfuf.se>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mNAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8O6AAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8O6AAAA
+SourceItemSubjectsList                 : Specialkost
+SourceItemAttachmentsList              : image001.png (53388b); Specialkost huvudtext cjs.docx (23097b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR08MB4609EB1DE4A381EB950FA867FBF60@AM0PR08MB4609.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mMAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8O8AAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8O8AAAA
+SourceItemSubjectsList                 : VB: Regeringen måste ge oss samlingsförbud!
+SourceItemAttachmentsList              : image001.jpg (6884b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM7PR08MB5448C7F8B9D30295CF4143A2E3F60@AM7PR08MB5448.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mLAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8O9AAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8O9AAAA
+SourceItemSubjectsList                 : Sv: Specialkost
+SourceItemAttachmentsList              : image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM7PR08MB54483B03BFCA32591C20B796E3F60@AM7PR08MB5448.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mKAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8PFAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8PFAAAA
+SourceItemSubjectsList                 : Press Release: European Tourism Sector demands urgent supportive measures to r
+                                         educe devastating impact of COVID-19
+SourceItemAttachmentsList              : image001.png (20863b); image008.png (24735b); Press-release_supportive measure
+                                         s_COVID-19_final.pdf (318919b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR10MB3106BA116620F06327A4FF0490F60@AM0PR10MB3106.EURPRD10.PROD.OUTLOOK.CO
+                                         M>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mJAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8POAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8POAAAA
+SourceItemSubjectsList                 : Latest measures taken by governments in support of the hospitality sector: COV
+                                         ID-19 outbreak
+SourceItemAttachmentsList              : image001.jpg (2131b); image002.gif (1565b); image003.gif (1543b); image004.gif
+                                          (1599b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM6PR10MB20532C3B422EC4C424131D0CEBF60@AM6PR10MB2053.EURPRD10.PROD.OUTLOOK.CO
+                                         M>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mIAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8P8AAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8P8AAAA
+SourceItemSubjectsList                 : Sv: It-samverkan - förändringar fr o m 1juni
+SourceItemAttachmentsList              : image001.jpg (2168b); image002.png (29089b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <HE1PR0802MB2412BF5B02B5E01D073DFCCF91F60@HE1PR0802MB2412.eurprd08.prod.outloo
+                                         k.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mHAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI2W8QLAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI2W8QLAAAA
+SourceItemSubjectsList                 : Restaurant, cafés & bars Working Group meeting by Videoconference - 2 April 20
+                                         20 - Please register
+SourceItemAttachmentsList              : image001.png (6279b); image002.gif (1565b); image003.gif (1543b); image004.gif
+                                          (1599b); D-0220-057-AW-Restaurant, café and bar Working Group - draft Agenda.
+                                         pdf (569334b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM6PR10MB29036121BF5481E243B0312D9EF60@AM6PR10MB2903.EURPRD10.PROD.OUTLOOK.CO
+                                         M>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mGAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4Jku4AAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4Jku4AAAA
+SourceItemSubjectsList                 : VB: Domar från Svea hovrätt
+SourceItemAttachmentsList              : Svea HR M 6920-19 Dom 2020-03-19.pdf (1626159b); Svea HR M 6924-19 Dom 2020-03
+                                         -19.pdf (2195306b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM7PR08MB544820779120AB1670C44395E3F40@AM7PR08MB5448.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mFAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4Jku+AAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4Jku+AAAA
+SourceItemSubjectsList                 : Ratio nyhetsbrev special 2020:2
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <C23BC69318544638BD79B69EDB85534B@ratio.se>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mEAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:33053
+ClientIP                               : [158.105.20.33]:33053
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4JkvBAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4JkvBAAAA
+SourceItemSubjectsList                 : VB: Kalkylator för Kortidspermittering
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <HE1PR0802MB24122E74EB1210B434A530F491F40@HE1PR0802MB2412.eurprd08.prod.outloo
+                                         k.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mDAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4JkvVAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4JkvVAAAA
+SourceItemSubjectsList                 : Coronakrisen: Så tillämpar du korttidspermittering | Skattekonsekvenser med an
+                                         ledning av corona
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <87CD313153314BDCB5896B2BF7067DA0@li.se>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mCAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:33053
+ClientIP                               : [158.105.20.33]:33053
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4JkvXAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4JkvXAAAA
+SourceItemSubjectsList                 : Korttidspermittering Kommunal
+SourceItemAttachmentsList              : korttidspermittering.pdf (73574b); image001.png (53388b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <HE1PR0801MB189880073A5F00C0515DEAE490F40@HE1PR0801MB1898.eurprd08.prod.outloo
+                                         k.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mBAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4JkveAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4JkveAAAA
+SourceItemSubjectsList                 : New issue of "Live from Brussels" newsletter - n°96
+SourceItemAttachmentsList              : image003.jpg (1916b); image004.jpg (1674b); image005.jpg (2169b); image001.jpg
+                                          (2185b); Live from Brussels - Issue 96.pdf (3592832b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM0PR10MB3106F0EE97729BF83E76C7C190F40@AM0PR10MB3106.EURPRD10.PROD.OUTLOOK.CO
+                                         M>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5mAAAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:33053
+ClientIP                               : [158.105.20.33]:33053
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4JkvoAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4JkvoAAAA
+SourceItemSubjectsList                 : Fwd: Öppet brev till regeringen
+SourceItemAttachmentsList              : image001.png (12143b); Tiden-håller-på-att-rinna-ut.jpg (594927b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <923D3354-9FD9-4052-9995-1C37FB36CE64@visita.se>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5l/AAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:33053
+ClientIP                               : [158.105.20.33]:33053
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4JkwoAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4JkwoAAAA
+SourceItemSubjectsList                 : VB: Husker du at sende de politiske aftaler👍
+SourceItemAttachmentsList              : 1b. Organisationsaftale for HORESTA Arbejdsgiver medlemmer.pdf (6458b); 1c. Tr
+                                         epartsaftale om midlertidig loenkompensation for loenmodtagere paa det private
+                                          arbejdsmarked1.pdf (95508b); 1f. Vejledning til aftale om midlertidig lønkomp
+                                         ensation for lønmodtagere på det private arbejdsmarked.pdf (276062b); 1h. vejl
+                                         edningtrepartsaftalen Horesta.pdf (122773b); 2b. Faktaark_Refusion til arbejds
+                                         givere i arbejdsgiverperiode og sygedagpenge til selvstaendigt erhvervsdrivend
+                                         e fra foerste fravaersdag (1).pdf (41977b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM7PR08MB544803EEDBCC0F1A71A25185E3F50@AM7PR08MB5448.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5l+AAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:28533
+ClientIP                               : [158.105.20.33]:28533
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4JkvzAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4JkvzAAAA
+SourceItemSubjectsList                 : ett förslag mitt i allt!
+SourceItemAttachmentsList              : image003.jpg (14271b)
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <AM4PR08MB281910A473C3E79FE432DCF19AF40@AM4PR08MB2819.eurprd08.prod.outlook.co
+                                         m>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+AuditOperationsCountInAggregatedRecord :
+AggregatedRecordFoldersData            :
+AppId                                  :
+ClientAppId                            :
+ItemIsRecord                           :
+ItemComplianceLabel                    :
+MailboxGuid                            : 4e72efe0-81ce-4c74-aa45-0330868bf3cd
+MailboxResolvedOwnerName               : Siljhammar, Jonas
+LastAccessed                           : 24.03.2020 20:12:31
+Identity                               : AAMkADFjZTg2N2YxLWFhMjAtNDkwYS1hZDg5LTg2YTMzNzg5ZWE5YQBGAAAAAAAK0AcobwBBT5xgAX
+                                         iSMV4oBwBiG08fUg8RSpZd+ppULEW0AAElSWZyAABiG08fUg8RSpZd+ppULEW0AAI6D5l9AAA=
+IsValid                                : True
+ObjectState                            : New
+
+RunspaceId                             : 160467d1-1e0f-4eee-aad0-c285d18e4164
+Operation                              : MoveToDeletedItems
+OperationResult                        : Succeeded
+LogonType                              : Owner
+ExternalAccess                         : False
+DestFolderId                           : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEKAAAB
+DestFolderPathName                     : \Borttagna objekt
+FolderId                               : LgAAAAAK0AcobwBBT5xgAXiSMV4oAQBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAAAB
+FolderPathName                         : \Inkorg
+FolderName                             :
+MemberRights                           :
+MemberSid                              :
+MemberUpn                              :
+ClientInfoString                       : Client=MSExchangeRPC
+ClientIPAddress                        : [158.105.20.33]:33053
+ClientIP                               : [158.105.20.33]:33053
+ClientMachineName                      :
+ClientProcessName                      : OUTLOOK.EXE
+ClientVersion                          : 16.0.11929.20602
+InternalLogonType                      : Owner
+MailboxOwnerUPN                        : jonas.siljhammar@visita.se
+MailboxOwnerSid                        : S-1-5-21-842301298-908962325-3333246715-5061997
+DestMailboxOwnerUPN                    :
+DestMailboxOwnerSid                    :
+DestMailboxGuid                        :
+CrossMailboxOperation                  : False
+LogonUserDisplayName                   : Siljhammar, Jonas
+LogonUserSid                           : S-1-5-21-842301298-908962325-3333246715-5061997
+SourceItems                            : {RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+
+                                         ppULEW0AAI4JkxCAAAA}
+SourceFolders                          : {}
+SourceItemIdsList                      : RgAAAAAK0AcobwBBT5xgAXiSMV4oBwBF9d5XA4n+S7nvsFBFAYmdAAAAAAEMAABiG08fUg8RSpZd+p
+                                         pULEW0AAI4JkxCAAAA
+SourceItemSubjectsList                 : Sv: Corona
+SourceItemAttachmentsList              :
+SourceItemFolderPathNamesList          : Inkorg
+SourceFolderPathNamesList              :
+SourceItemInternetMessageIdsList       : <HE1PR0802MB24124747E3326E5FA2E03E3991F50@HE1PR0802MB2412.eurprd08.prod.outloo
+                                         k.com>
+ItemId                                 :
+ItemSubject                            :
+ItemAttachments                        :
+ItemInternetMessageId                  :
+DirtyProperties                        :
+OriginatingServer                      : AM0PR08MB3619 (15.20.2835.016)
+SessionId                              : 99930964-e447-42bb-b7b4-3d703ac2798e
+OperationProperties                    :
+PS C:\Users\Andrii.Sierov>
