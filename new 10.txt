@@ -3,3 +3,4 @@ PS C:\Users\Andrii.Sierov> Get-DistributionGroupMember -Identity "svemin room"
 Name          RecipientType
 ----          -------------
 Svemin Gruvan UserMailbox
+Hello GitHub
